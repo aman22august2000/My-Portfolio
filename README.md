@@ -16,7 +16,7 @@ Comprises of six sections that are:-
 
 5. Coding Profile
 
-6.Contact Me
+6. Contact Me
 
 Comprises of to theme i.e.- Light and Dark Mode
 
